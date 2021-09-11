@@ -1,0 +1,17 @@
+{
+  "titulo": "rock",
+  "artists": [
+    {
+        "artist_name": "Chris Cornell",
+        "artist_id": "0XHiH53dHrvbwfjYM7en7I"
+     },
+        {
+        "artist_name": "Chris Stapleton",
+        "artist_id": "4YLtscXsxbVgi031ovDDdh"
+     },
+        {
+        "artist_name": "Rolling Stones",
+        "artist_id": "22bE4uQ6baNwSHPVcDxLCe"
+     }
+      ]
+}
